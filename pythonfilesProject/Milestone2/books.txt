@@ -1,0 +1,47 @@
+[
+      {
+            "title": "A Christmas Carol",
+            "author": "Charles Dickens",
+            "read": true
+      },
+      {
+            "title": "Dracula",
+            "author": "Bram Stoker",
+            "read": true
+      },
+      {
+            "title": "Frankenstein",
+            "author": "Mary Shelley",
+            "read": true
+      },
+      {
+            "title": "Count Of Monte Cristo",
+            "author": "Alexandre Dumas",
+            "read": false
+      },
+      {
+            "title": "The Time Machine",
+            "author": "H G Wells",
+            "read": false
+      },
+      {
+            "title": "Catcher In The Rye",
+            "author": "J D Salinger",
+            "read": false
+      },
+      {
+            "title": "Nineteen Eighty Four",
+            "author": "George Orwell",
+            "read": false
+      },
+      {
+            "title": "Wuthering Heights",
+            "author": "Emily Bronte",
+            "read": true
+      },
+      {
+            "title": "A Long  Way Down",
+            "author": "Nick Hornby",
+            "read": false
+      }
+]

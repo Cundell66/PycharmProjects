@@ -1,0 +1,263 @@
+﻿Artist,Title,Label,Format,Released
+10cc And Godley & Crème,Changing Faces - The Best Of,"Pro TV London, Pro TV London, Pro TV London"
+ABC,The Lexicon Of Love,Neutron Records,"LP, Album"
+Adam And The Ants,Prince Charming,CBS,"LP, Album
+Alison Moyet,Alf,CBS,"LP, Album
+Alison Moyet,Raindancing,"CBS, CBS","LP
+Arctic Monkeys,"Whatever People Say I Am, That's What I'm Not",Domino,"LP
+Arctic Monkeys,AM,Domino,"LP, Album
+Arctic Monkeys,Favourite Worst Nightmare,Domino,"LP, Album
+Arctic Monkeys,The Car,Domino,"LP, Album
+Bad Company (3),Straight Shooter,Island Records,"LP, Album"
+Biffy Clyro,Only Revolutions,14th Floor Records,"LP, Album
+Billy Bragg,Life's A Riot With Spy Vs Spy,Utility,"12"", 45 RPM
+Billy Joel,52nd Street,"CBS, CBS","LP
+Blondie,Blondie,Chrysalis,"LP, Album
+Blondie,Parallel Lines,Chrysalis,"LP, Album
+Blondie,Plastic Letters,Chrysalis,"LP, Album"
+Blondie,Eat To The Beat,Chrysalis,"LP, Album
+Bob Dylan,Greatest Hits,CBS,"LP, Comp
+Bob Dylan,More Bob Dylan Greatest Hits,"CBS, CBS","2xLP
+Bob Dylan,Blood On The Tracks,"CBS, CBS","LP
+Bob Dylan,Street-Legal,"CBS, CBS, CBS"
+Bob Dylan,Infidels,CBS,"LP, Album"
+Bob Dylan,Desire,CBS,"LP, Album
+Bob Marley & The Wailers,Legend (The Best Of Bob Marley And The Wailers),Island Records,"LP, Comp
+Boy Meets Girl,Reel Life,RCA,"LP, Album"
+Breathe Panel,Lets It In,FatCat Records,"LP, Album"
+Bright Eyes,"I'm Wide Awake, It's Morning",Dead Oceans,"LP
+Bring Me The Horizon,2004-2013,BMG,"2xLP, Comp
+Bruce Springsteen,Greetings From Asbury Park N.J.,CBS,"LP, Album
+Bruce Springsteen,"The Wild, The Innocent &  The E Street Shuffle",CBS,"LP
+Bruce Springsteen,Born To Run,"CBS, CBS","LP
+Bruce Springsteen,Darkness On The Edge Of Town,"CBS, CBS, CBS"
+Bruce Springsteen,The River,"CBS, CBS, CBS"
+Bruce Springsteen,Born In The U.S.A.,CBS,"LP, Album
+Bruce Springsteen,Tunnel Of Love,CBS,"LP, Album"
+Bullet For My Valentine,Venom,"RCA, Sony Music","2xLP
+Bullet For My Valentine,Bullet For My Valentine,"Spinefarm Records, Search And Destroy Records","LP
+Buzzcocks,Love Bites,United Artists Records,"LP, Album
+Carole King,Tapestry,"Epic, Epic, Ode Records (2)"
+Coach Party,After Party,Chess Club Records,"10"" EP Ltd Ed Yel",2021
+Coach Party,Nothing Is Real,Chess Club Records,"10"" EP",2022
+Coves,Soft Friday,Nettwerk,"LP, Album"
+"Crosby, Stills & Nash",CSN,"Atlantic, Atlantic"
+"Crosby, Stills, Nash & Young",Déjà Vu,"Atlantic
+Crowded House,Woodface,Capitol Records,"LP, Album
+Culture Club,Colour By Numbers,"Virgin, Virgin, Virgin"
+Daryl Hall & John Oates,Bigger Than Both Of Us,"RCA Victor, RCA Victor","LP
+David Bowie,ChangesOneBowie,RCA Victor,"LP, Comp"
+David Bowie,Let's Dance,EMI America,"LP, Album"
+David Bowie,Tonight,"EMI America, EMI America, EMI America"
+David Bowie,"""Heroes""",RCA International,"LP, Album
+David Bowie,Never Let Me Down,"EMI America, EMI America","LP
+Deep Purple,The Deep Purple Singles A's & B's,"Harvest, Harvest","LP
+Deep Purple,Deepest Purple : The Very Best Of Deep Purple,"EMI, EMI","LP
+Dennis Brown,Love & Hate (The Best Of Dennis Brown),"VP Records, VP Records","LP
+Desmond Dekker,Rude Boy Ska,Burning Sounds,"LP, Red"
+Dexys Midnight Runners,Searching For The Young Soul Rebels,Fame,"LP, Album
+Don McLean,Tapestry,United Artists Records,"LP, Album"
+Eagles,Their Greatest Hits (1971-1975),Asylum Records,"LP, Album
+Eagles,Hotel California,Asylum Records,"LP, Album
+Echo & The Bunnymen,Songs To Learn & Sing,"Korova, Korova","LP
+Editors,An End Has A Start,Play It Again Sam,"LP, Album
+Electric Light Orchestra,ELO's Greatest Hits,Jet Records,"LP, Comp"
+Electric Light Orchestra,Discovery,"Jet Records, Jet Records","LP
+Electric Light Orchestra / Olivia Newton-John,Xanadu (From The Original Motion Picture Soundtrack),JET Records,"LP, Album
+Fleetwood Mac,Rumours,Warner Records,"LP, Album
+Fontaines D.C.,Dogrel,Partisan Records,"LP, Album"
+Fontaines D.C.,A Hero's Death,Partisan Records,"LP, Album"
+Fontaines D.C.,Skinty Fia,Partisan Records,"2x12"", Album
+Frankie Goes To Hollywood,Welcome To The Pleasuredome,ZTT,"2xLP, Album
+Genesis,... And Then There Were Three...,Charisma,"LP, Album
+Genesis,Duke,Charisma,"LP, Album
+Georgie Fame & The Blue Flames,Back Again,K-tel,"LP, Album"
+Gerry Rafferty,Night Owl,United Artists Records,"LP, Album"
+Glen Campbell,Twenty Golden Greats,"Capitol, Capitol","LP
+Goo Goo Dolls,Greatest Hits Volume One: The Singles,Warner Records,"LP, Comp"
+Hazel O'Connor,Breaking Glass,A&M Records,"LP, Album"
+Heaven 17,Penthouse And Pavement,Virgin,"LP, Album"
+Heaven 17,The Luxury Gap,"Virgin, Virgin","LP
+Heaven 17,How Men Are,Virgin,"LP, Album"
+Heaven 17,Pleasure One,Virgin,"LP, Album"
+Helen Reddy,I Am Woman,"Capitol Records, Fame","LP
+Howard Jones,Human's Lib,"WEA, WEA","LP
+Imagine Dragons,Night Visions,"KIDinaKORNER, Interscope Records","LP
+Imagine Dragons,Evolve,"KIDinaKORNER, Interscope Records","LP
+INXS,Kick,"Mercury, Mercury","LP
+Iron Maiden,Piece Of Mind,"EMI, EMI","LP
+Jackson Browne,The Pretender,"Asylum Records, Asylum Records, Asylum Records
+Jackson Browne,Running On Empty,"Asylum Records, Asylum Records, Asylum Records
+James Taylor (2),Mud Slide Slim And The Blue Horizon,"Warner Bros. Records, Warner Bros. Records, Warner Bros. Records
+James Taylor (2),Sweet Baby James,Warner Bros. Records,"LP, Album
+Japan,Assemblage,"Hansa International, Hansa International","LP
+Jeff Beck,Everything You Always Wanted To Hear By Jeff Beck But Were Afraid To Ask For,Epic,"LP, Comp
+Jimi Hendrix,The Essential Jimi Hendrix,Polydor,"2xLP, Comp
+Joan Armatrading,Joan Armatrading,A&M Records,"LP, Album"
+Joan Armatrading,Show Some Emotion,A&M Records,"LP, Album"
+Joan Armatrading,To The Limit,A&M Records,"LP, Album"
+Joan Armatrading,Steppin' Out,A&M Records,"LP, Album
+Joan Armatrading,Me Myself I,A&M Records,"LP, Album"
+Joan Armatrading,Track Record,A&M Records,"LP, Comp
+Joan Armatrading,The Key,A&M Records,"LP, Album"
+Joan Armatrading,Sleight Of Hand,A&M Records,"LP, Album"
+John Lennon & Yoko Ono,Double Fantasy,"Geffen Records, Geffen Records, Geffen Records"
+Joni Mitchell,Ladies Of The Canyon,Reprise Records,"LP, Album
+Joni Mitchell,Blue,"Reprise Records, Reprise Records","LP
+Joni Mitchell,Court And Spark,"Asylum Records, Asylum Records","LP
+Judy Collins,Colors Of The Day (The Best Of Judy Collins),"Elektra, Elektra","LP
+Judy Collins,Judith,Elektra,"LP, Album
+Kaiser Chiefs,Employment,"B-Unique Records, Polydor","LP
+Led Zeppelin,Led Zeppelin,"Atlantic, Atlantic","LP
+Led Zeppelin,Led Zeppelin II,Atlantic,"LP, Album
+Led Zeppelin,Led Zeppelin III,"Atlantic, Atlantic","LP
+Led Zeppelin,Untitled,"Atlantic, Atlantic","LP
+Led Zeppelin,Houses Of The Holy,"Atlantic, Atlantic","LP
+Led Zeppelin,Physical Graffiti,Swan Song,"2xLP, Album
+Led Zeppelin,Presence,Swan Song,"LP, Album
+Led Zeppelin,In Through The Out Door,Swan Song,"LP, Album
+Leonard Cohen,Songs Of Leonard Cohen,"CBS, CBS","LP
+Leonard Cohen,I'm Your Man,"CBS, CBS","LP
+Linkin Park,Hybrid Theory,"Warner Records, Machine Shop Recordings","LP
+Lloyd Cole & The Commotions,Rattlesnakes,"Polydor, Polydor","LP
+Lou Reed,Transformer,"RCA, RCA Victor","LP
+Manfred Mann,Semi-Detached Suburban (20 Great Hits Of The Sixties),"EMI, EMI","LP
+Manfred Mann With Paul Jones,Mann Made Hits,"His Master's Voice, His Master's Voice","LP
+Meat Loaf,Bat Out Of Hell,"Epic, Cleveland International Records, Epic"
+Meat Loaf,Dead Ringer,CBS/Sony,"LP, Album"
+Michael Jackson,One Day In Your Life,"Tamla Motown, Tamla Motown","LP
+Midday Veil,This Wilderness,Beyond Beyond Is Beyond Records,"LP, Album
+Mr. Mister,Welcome To The Real World,RCA,"LP, Album"
+My Chemical Romance,The Black Parade ,"Reprise Records, Reprise Records","LP + LP
+Nat King Cole,20 Greatest Love Songs,"Capitol Records, Capitol Records","LP
+Neil Young,After the Gold Rush,"Reprise Records, Reprise Records","LP
+Neil Young,American Stars 'N Bars,Reprise Records,"LP, Album
+New Musik,From A To B,GTO,"LP, Album"
+Panic Shack,Baby Shack,Brace Yourself Records,"12"" EP Ltd Cle",2022
+Paul & Linda McCartney,Ram,"Apple Records, Apple Records","LP
+Paul McCartney,McCartney II,"Parlophone, Parlophone, MPL (2)"
+Phil Collins,No Jacket Required,Virgin,"LP, Album
+Phil Collins,...But Seriously,Virgin,"LP, Album"
+Pink Floyd,The Dark Side Of The Moon,"Harvest, EMI, EMI"
+Pink Floyd,Wish You Were Here,Harvest,"LP, Album"
+Pink Floyd,Animals,"Harvest, Harvest","LP
+Pink Floyd,The Wall,Harvest,"2xLP, Album
+Prince And The Revolution,Purple Rain,"Warner Records, NPG Records","LP
+Pulp,Different Class,"Island Records, Island Records","LP
+Rage Against The Machine,Rage Against The Machine,"Epic Associated, Legacy, Sony Music"
+Rainbow,Down To Earth,"Polydor, Polydor","LP
+Rita Coolidge,Anytime... Anywhere,A&M Records,"LP, Album"
+Roger Whittaker,20 All Time Greats,"Polydor, Polydor","LP
+Roxy Music,Greatest Hits,Polydor,"LP, Comp"
+Runrig,The Cutter & The Clan,Chrysalis,"LP, Album"
+Sad Café,Facades,RCA,"LP, Album"
+Saxon,Wheels Of Steel,Carrere,"LP, Album"
+Scritti Politti,Songs To Remember,Rough Trade,"LP, Album"
+Sex Pistols,Never Mind The Bollocks Here's The Sex Pistols,"Warner Bros. Records, Virgin, Warner Bros. Records
+Simon & Garfunkel,"Wednesday Morning, 3 A.M.",CBS,"LP
+Simon & Garfunkel,Sounds Of Silence,"CBS, CBS","LP
+Simon & Garfunkel,"Parsley, Sage, Rosemary And Thyme","CBS
+Simon & Garfunkel,Bookends,CBS,"LP, Album
+Simon & Garfunkel,Bridge Over Troubled Water,"CBS, CBS","LP
+Sky (4),Sky 2,Ariola,"2xLP, Album
+Smokie,Bright Lights And Back Alleys,"RAK, RAK","LP
+Spandau Ballet,Journeys To Glory,"Reformation, Chrysalis","LP
+Spandau Ballet,Diamond,"Reformation, Chrysalis","LP
+Spandau Ballet,TRUE,"Reformation, Chrysalis","LP
+Spandau Ballet,Parade,"Reformation, Chrysalis","LP
+Spandau Ballet,Through The Barricades,"CBS, CBS","LP
+Spandau Ballet,Heart Like A Sky,CBS,"LP, Album"
+Split Enz,True Colours,Mushroom,"LP, Album
+Squeeze (2),Singles - 45's And Under,A&M Records,"LP, Comp"
+Status Quo,Whatever You Want,Vertigo,"LP, Album"
+Status Quo,Just Supposin'...,Vertigo,"LP, Album"
+Status Quo,Never Too Late,Vertigo,"LP, Album"
+Status Quo,Back To Back,"Vertigo, Vertigo","LP
+Steeleye Span,Original Masters,Chrysalis,"2xLP, Comp
+Steve Harley And Cockney Rebel,The Best Years Of Our Lives,"EMI, EMI","LP
+Stiff Little Fingers,Inflammable Material,Rough Trade,"LP, Album
+Supertramp,Crime Of The Century,A&M Records,"LP, Album"
+Supertramp,Even In The Quietest Moments,A&M Records,"LP, Album"
+Supertramp,Breakfast In America,A&M Records,"LP, Album
+Supertramp,"""...Famous Last Words...""",A&M Records,"LP, Album"
+Suzanne Vega,Solitude Standing,A&M Records,"LP, Album"
+Talk Talk,The Party's Over,"EMI, EMI","LP
+Talk Talk,It's My Life,"EMI, EMI","LP
+Tanita Tikaram,Ancient Heart,"WEA, WEA","LP
+The Animals,The Most Of,Music For Pleasure,"LP, Comp"
+The Band,To Kingdom Come,Capitol Records,"3xLP, Comp"
+The Beach Boys,Best Of The Beach Boys,Capitol Records,"LP, Comp"
+The Beatles,Please Please Me,Parlophone,"LP, Album
+The Beatles,Beatles For Sale,Parlophone,"LP, Album
+The Beatles,A Hard Day's Night,Parlophone,"LP, Album
+The Beatles,Help!,Parlophone,"LP, Album
+The Beatles,Revolver,Parlophone,"LP, Album
+The Beatles,Sgt. Pepper's Lonely Hearts Club Band,Parlophone,"LP, Album
+The Beatles,Rubber Soul ,Parlophone,"LP, Album
+The Beatles,Abbey Road,Apple Records,"LP, Album"
+The Beatles,1962-1966,"Apple Records, Apple Records, Apple Records"
+The Blow Monkeys,Animal Magic,RCA,"LP, Album"
+The Clash,The Clash,"CBS, CBS","LP
+The Clash,London Calling,"CBS, CBS","2xLP
+The Doors,Greatest Hits,"Elektra, Elektra","LP
+The Early Mornings,Ultra-Modern Rain / Unnecessary Creation,Practise Music,"12"", Comp
+The Hollies,20 Golden Greats,"EMI, EMI","LP
+The Human League,Reproduction,Virgin,"LP, Album"
+The Jam,This Is The Modern World,Polydor,"LP, Album
+The Jam,Setting Sons,Polydor,"LP, Album"
+The Jam,Sound Affects,Polydor,"LP, Album"
+The Jam,The Gift,"Polydor, Polydor","LP
+The Killers,Hot Fuss,"Island Records, Universal Music Catalogue","LP
+The Kinks,20 Golden Greats,"Ronco, Pye Records","LP
+The Kinks,You Really Got Me,Pye Records,"LP, Comp"
+The League Unlimited Orchestra,Love And Dancing,Virgin,"LP, Album
+The Monkees,The Monkees,"RCA Victor, Colgems","LP
+The Monkees,More Of The Monkees,"RCA Victor, RCA Victor","LP
+The Monkees,Headquarters,RCA Victor,"LP, Album
+The Monkees,"Pisces, Aquarius, Capricorn & Jones Ltd.",RCA Victor
+The Monkees,"The Birds, The Bees & The Monkees",RCA Victor,"LP
+The Moody Blues,A Question Of Balance,"Threshold (5), Threshold (5)","LP
+The Moody Blues With The London Festival Orchestra Conducted By Peter Knight (5),Days Of Future Passed,Deram,"LP, Album
+The Pogues,Rum Sodomy & The Lash,Stiff Records,"LP, Album"
+The Police,Outlandos D'Amour,A&M Records,"LP, Album"
+The Police,Reggatta De Blanc,A&M Records,"LP, Album"
+The Police,Zenyatta Mondatta,A&M Records,"LP, Album"
+The Police,Ghost In The Machine,A&M Records,"LP, Album"
+The Police,Synchronicity,A&M Records,"LP, Album"
+The Psychedelic Furs,The Psychedelic Furs,"CBS, CBS","LP
+The Psychedelic Furs,Talk Talk Talk,"CBS, CBS","LP
+The Psychedelic Furs,Forever Now,CBS,"LP, Album"
+The Psychedelic Furs,Mirror Moves,CBS,"LP, Album"
+The Psychedelic Furs,Book Of Days,CBS,"LP, Album"
+The Psychedelic Furs,Midnight To Midnight,CBS,"LP, Album
+The Rolling Stones,Big Hits (High Tide And Green Grass),"Decca, Decca","LP
+The Seekers,Hide And Seekers,"World Record Club, World Record Club","LP
+The Seekers,Come The Day,Columbia,"LP, Album
+The The,Soul Mining,"Epic, Some Bizzare","LP
+The Velvet Underground & Nico (3),The Velvet Underground & Nico,Verve Records,"LP, Album
+The Velvet Underground Featuring Lou Reed,The Velvet Underground Featuring Lou Reed,Polydor,"2xLP, Comp"
+The Vibrators,V2,"Epic, Epic","LP
+The Who,Who's Next,Track Record,"LP, Album
+T'Pau,Bridge Of Spies,"Siren (3), Siren (3)","LP
+Transvision Vamp,Velveteen,MCA Records,"LP, Album"
+Twin Atlantic,Power,Virgin EMI Records,"LP, Album"
+U2,The Joshua Tree,Island Records,"LP, Album
+UB40,Labour Of Love,DEP International,"LP, Album"
+Vangelis,Albedo 0.39,RCA Victor,"LP, Album
+Various, Tommy (Original Soundtrack Recording),Polydor,"2xLP, Album
+Various,Fonzie Favorites,"Warwick Records, Warwick Records","LP
+Various,Saturday Night Fever (The Original Movie Soundtrack),RSO,"2xLP, Comp
+Various,Grease (The Original Soundtrack From The Motion Picture),"RSO, RSO, RSO"
+Various,Modern Heroes,TV Records,"LP, Comp"
+Various,Pillows & Prayers,Cherry Red,"LP, Comp"
+Various,Formula 30,"Pro TV London, Pro TV London, Pro TV London"
+Various,Absolute Beginners - The Musical (Songs From The Original Motion Picture) ,Virgin,"LP, Album"
+Various,T.S.O.P The Sound Of Philadelphia,K-Tel,"2xLP, Comp"
+Various,Guardians Of The Galaxy: Awesome Mix Vol. 1 (Original Motion Picture Soundtrack),Hollywood Records,"LP, Album
+Various,Ska & Reggae Classics,"Trojan Records, Trojan Records, Trojan Records"
+Village People,Go West,IMAVOX,"LP, Album
+Wet Leg,Wet Leg,Domino,"LP, Album"
+Wet Wet Wet,Popped In Souled Out,"The Precious Organisation, The Precious Organisation","LP
+Yard Act,The Overload,"ZEN F.C., Island Records","LP
+Yes,Going For The One,"Atlantic, Atlantic","LP
+Pink Floyd, Meddle, Harvest, LP Gatefold, 1971 0

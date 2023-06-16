@@ -1,0 +1,27 @@
+[
+      {
+            "title": "Wuthering Heights",
+            "author": "Emily Bronte",
+            "read": true
+      },
+      {
+            "title": "A Christmas Carol",
+            "author": "Charles Dickens",
+            "read": true
+      },
+      {
+            "title": "Dracula",
+            "author": "Bram Stoker",
+            "read": false
+      },
+      {
+            "title": "Frankenstein",
+            "author": "Mary Shelley",
+            "read": true
+      },
+      {
+            "title": "Count Of Monte Cristo",
+            "author": "Alexandre Dumas",
+            "read": false
+      }
+]
