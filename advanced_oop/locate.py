@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 input_file = "advanced_oop/trello_data.csv"
 output_file = 'search_results.csv'
 
-# Define the search engine URL (you can change it to Google if you prefer)
+# Define the search engine URL (you can change it to Google if you pass a cookie to get round Google's privacy check)
 search_url = 'https://www.bing.com/search?q='
 
 # Define the number of results to get for each query
